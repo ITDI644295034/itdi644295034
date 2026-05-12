@@ -1,23 +1,317 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Solahudeen Marong
+Hi
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Solahudeen Marong
 ==========================================================================================================================================
-
-Web and Mobile Developer
-------------------------
-
-A passionate Software Developer from Thailand 🇹🇭
-
-* 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [solahudeen.dev@mail.com](mailto:solahudeen.dev@mail.com)
-* 🧠  I'm currently learning TypeScript, Go, C# .Net, NextJS, AI, etc.
+Web and Mobile Developer ------------------------ A passionate Software
+Developer from Thailand 🇹🇭 * 🌍 I'm based in Bangkok * ✉️ You can contact me at
+[solahudeen.dev@mail.com](mailto:solahudeen.dev@mail.com) * 🧠 I'm currently
+learning TypeScript, Go, C# .Net, NextJS, AI, etc.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="left">
+    <img
+      src="https://skillicons.dev/icons?i=angular"
+      alt="angular"
+      width="40"
+      height="40"
+    />
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/css3"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=css"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/dart"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=dart"
+      alt="dart"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/docker"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=docker"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/dotnet"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=dotnet"
+      alt="dotnet"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/figma"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=figma"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/firebase"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=firebase"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/flutter"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=flutter"
+      alt="flutter"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/git"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=git"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/javascript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=js"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/mongodb"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=mongodb"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/mysql"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=mysql"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/nestjs"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=nestjs"
+      alt="nestjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/nextjs"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=nextjs"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/nodejs"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=nodejs"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/photoshop"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=photoshop"
+      alt="photoshop"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/postgresql"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=postgres"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/postman"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=postman"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/react"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=react"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/tailwind"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=tailwind"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/typescript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=ts"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ITDI644295034" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/solahudeen1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
+<p align="left">
+  <a
+    href="https://www.github.com/ITDI644295034"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+        width="32"
+        height="32"
+        alt="GitHub"
+        title="GitHub"
+      />
+    </picture>
+  </a>
+  <a href="https://www.gitlab.com/solahudeen1" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="" />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg"
+        width="32"
+        height="32"
+        alt="GitLab"
+        title="GitLab"
+      />
+    </picture>
+  </a>
+</p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ITDI644295034"><img src="https://github-readme-stats.vercel.app/api?username=ITDI644295034&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ITDI644295034's GitHub stats" /></a>
+<a href="http://www.github.com/ITDI644295034"
+  ><img
+    src="https://github-readme-stats.vercel.app/api?username=ITDI644295034&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+    alt="ITDI644295034's GitHub stats"
+/></a>
